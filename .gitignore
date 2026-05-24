@@ -1,0 +1,9 @@
+# Dependencies
+tests/node_modules/
+
+# Logs
+*.log
+server.log
+
+# OS
+.DS_Store
